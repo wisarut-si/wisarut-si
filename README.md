@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @wisarut-sirimart
-- 👀 I’m interested in Data, AI, Cloud Technology
+- 👋 Hi, I’m @wisarut-si
+- 👀 I’m interested in Data, AI, Software Development, Cloud Technology
 - 🌱 I’m currently learning Data Engineering, Devop Engineering, Full Stack Engineering
 - 💞️ I’m looking to collaborate on Data Science, Devops, Developer
 - 📫 How to reach me email: wisarut.sirimart@gmail.com
